@@ -1,4 +1,6 @@
 streamlit
+mysqlclient
+SQLAlchemy
 mysql
 mysql_connector_repackaged
 seaborn==0.9.0
