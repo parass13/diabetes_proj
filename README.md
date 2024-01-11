@@ -1,6 +1,6 @@
 # diabetes_proj
 
-Certainly! A diabetes prediction model is a tool designed to assist in identifying individuals who may be at risk of developing diabetes based on certain input features or variables. The goal is to use historical data to create a model that can predict whether a person is likely to have diabetes in the future.
+A diabetes prediction model is a tool designed to assist in identifying individuals who may be at risk of developing diabetes based on certain input features or variables. The goal is to use historical data to create a model that can predict whether a person is likely to have diabetes in the future.
 
 Here's a more detailed description for the user:
 
